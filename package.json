@@ -1,0 +1,20 @@
+{
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "name": "mjs-example",
+  "version": "1.0.0",
+  "description": "ECMAScript Modules on Node.js. Require Node.js 13.2.0 >= ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.mjs"
+  }
+}
